@@ -864,7 +864,7 @@ form label {
 #fh5co-counter .display-tc h2,
 .fh5co-cover .display-tc h2 {
   font-size: 20px;
-  line-height: 2.8;
+  line-height: 1.8;
   margin-bottom: 30px;
 }
 @media screen and (max-width: 480px) {
@@ -934,7 +934,7 @@ form label {
 
 .simply-countdown {
   /* The countdown */
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .simply-countdown > .simply-section {
